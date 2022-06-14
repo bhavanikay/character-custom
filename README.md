@@ -13,6 +13,7 @@ Character Customization Game
 ### Team Members/Tasks:
 Adrian Tam: 
 *  Completed: Project Outline
+*  Working on: Charcter Customization Program Base
 *  UI/UX, graphic design,
 
 Nika Yadav: 
