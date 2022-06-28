@@ -34,4 +34,18 @@ Roles and responsibilities:
   * New Completions: server/client connection
   * Curent: client/ui connection
   * Next: continued
+  
+### Week 4 Update:
+Progress: UI created, server and client connection established, graphics
+Link: https://github.com/bhavanikay/character-custom
+Pending: Complete graphics and UI/client connection.
+Roles and responsibilities:
+* Adrian Tam:
+  * New Completions: Basic Offline functionality
+  * Curent: Scripts for online character customization and add models
+  * Next: Finish making scripts for online functionality and polish the look
+* Nika Yadav: Server/Client connection
+  * New Completions: server/client connection
+  * Curent: client/ui connection, login functionality
+  * Next: Fixing bugs and errors
 
