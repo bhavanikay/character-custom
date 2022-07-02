@@ -49,3 +49,20 @@ Roles and responsibilities:
   * Curent: client/ui connection, login functionality
   * Next: Fixing bugs and errors
 
+### Week 5/6 Update:
+In the final stages of our release, we are working together to put the pieces together (server/client connection and graphics).
+
+Install/Uninstall:
+* Install Unity
+* Open the server project file and connect the server to any port and your IP address. Make sure the server is running successfully.
+* Open the client project file and connect to the same port as the server. 
+* Once connected, enter the name for the user and select the join button. Once joined, the player will spawn with the specified username.
+* To uninstall, delete the project files from your computer.
+
+Closing thoughts:
+Although our game is very simple in nature, we have created a strong foundation to build upon. This was a learning experience for all team members involved and although we encountered issues along the way we referred to documentation and other resources in order to reach solutions. 
+
+Link to respository: https://github.com/bhavanikay/character-custom
+Link to site: https://bhavanikay.github.io/character-custom/
+Link to version: https://github.com/bhavanikay/character-custom/releases/tag/v1.0.1
+
